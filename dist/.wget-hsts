@@ -1,7 +1,0 @@
-# HSTS 1.0 Known Hosts database for GNU Wget.
-# Edit at your own risk.
-# <hostname>	<port>	<incl. subdomains>	<created>	<max-age>
-eboardresults.com	0	0	1700981361	31536000
-colorlib.com	0	0	1700632717	15552000
-fast.com	0	0	1700458890	31536000
-preview.colorlib.com	0	0	1701764710	15552000
