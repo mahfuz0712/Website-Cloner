@@ -1,4 +1,9 @@
+.venv/
 build/
 dist/
 setup/
 src/
+.python-version
+pyprojext.toml
+clonner.spec
+uv.lock
