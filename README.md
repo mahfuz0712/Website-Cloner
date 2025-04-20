@@ -17,7 +17,7 @@ This Tool can clone any theme or website's content including all the source code
 - In your Terminal type this command below
 - replace <url> with the actual url 
 ```bash
-    Clonner clone <url>
+    clonner clone <url>
 ``` 
 
 
