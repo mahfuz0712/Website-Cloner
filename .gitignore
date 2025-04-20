@@ -4,6 +4,6 @@ dist/
 setup/
 src/
 .python-version
-pyprojext.toml
+pyproject.toml
 clonner.spec
 uv.lock
